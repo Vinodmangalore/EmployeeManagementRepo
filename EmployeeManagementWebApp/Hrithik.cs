@@ -1,6 +1,6 @@
 ﻿namespace EmployeeManagementWebApp
 {
-    public class Hrithik
+    public class hrithik
     {
     }
 }
